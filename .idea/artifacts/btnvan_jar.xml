@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="btnvan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/btnvan_jar</output-path>
+    <root id="archive" name="btnvan.jar">
+      <element id="module-output" name="btnvan" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.52/bcprov-jdk15on-1.52.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
