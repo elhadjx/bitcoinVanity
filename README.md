@@ -23,9 +23,9 @@ to search for the desired address.
 - [BouncyCastle] - v 15
 
 ## How To Use
-Desired Start of Btc Address: hadj
-Case sensitive: false
-Threads: 20
+- Desired Start of Btc Address: hadj
+- Case sensitive: false
+- Threads: 20
 ### Input:
 ```sh
 java -jar bitcoinVanity.jar hadj false 20
