@@ -42,3 +42,6 @@ Address: 1HAdJSEAAbo5BECBG5mFw8imZTcMjBKSwT
 
 ## Donations
 Btc: bc1q48s6asjrp4tqthnyhhwswwxkkyqjw7jq5fd6lv
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/elhadjx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elhadjx" /></a></p><br><br>
