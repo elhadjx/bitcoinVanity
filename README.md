@@ -1,4 +1,4 @@
-# Bitcoin Vanity
+# CODENAME: Bitcoin Vanity
 
 ---
 
