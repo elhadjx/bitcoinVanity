@@ -1,4 +1,7 @@
 # Bitcoin Vanity
+
+---
+
 ## Custom Bitcoin Address Generator
 
 
