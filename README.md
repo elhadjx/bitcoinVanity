@@ -1,9 +1,14 @@
-# Bitcoin Vanity
+# CODENAME: Bitcoin Vanity
+
+---
+
 ## Custom Bitcoin Address Generator
 
-
+### BUILD STATUS 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+---
+### WHAT IT DOES...
 Bitcoin Vanity is a local bitcoin address generator, it uses multithreading to 
 brute-froce the generation of bitcoin private keys and calculates their address
 to search for the desired address.
@@ -22,10 +27,12 @@ to search for the desired address.
 - [JAVA] - Clearly!
 - [BouncyCastle] - v 15
 
+
 ## How To Use
 - Desired Start of Btc Address: hadj
 - Case sensitive: false
 - Threads: 20
+
 ### Input:
 ```sh
 java -jar bitcoinVanity.jar hadj false 20
@@ -41,6 +48,8 @@ Address: 1HAdJSEAAbo5BECBG5mFw8imZTcMjBKSwT
 
 
 ## Donations
+GRANT ME SOME COINS @
+
 Btc: bc1q48s6asjrp4tqthnyhhwswwxkkyqjw7jq5fd6lv
 
 <h3 align="left">Support:</h3>
